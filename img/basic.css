@@ -1,0 +1,60 @@
+body,td {
+	color:black;
+	background-color: #e0ffe0;
+	margin-left:10%;
+	margin-right:10%;
+	font-size:100%;
+	font-family:verdana, arial, helvetica, Sans-Serif;
+}
+
+A:link        {
+    color: #008000;
+    text-decoration:none;
+    text-underline: none
+}
+A:visited     {
+    color: #3080ff;
+    text-decoration:none;
+    text-underline: none
+}
+A:active      {
+    color: lime;
+    text-decoration:none;
+    text-underline: none
+}
+A:hover       {
+    color: red;
+    text-decoration: underline;
+}
+
+h1, h2 {
+    text-align: left;
+    border-left: #f80 2px solid;
+    border-bottom: #f80 1px solid;
+    color: black;
+    background-color: #fd0;
+    background-image:url("firebar.gif");
+    padding: .1em .5em .1em .5em;
+}
+h3 {
+    text-align: left;
+    border-top: #e8ffe8 10px solid;
+    border-left: #f80 20px solid;
+    border-bottom: #f80 2px solid;
+    color: black;
+    padding: .1em .5em .1em 2em;
+}
+h4 {
+	font-family:verdana, arial, helvetica, Sans-Serif;
+	border-left:   18px solid #f80;
+	color:inherit;
+}
+ul {
+	margin-top:.5em;
+	margin-bottom:.5em;
+	line-height:130%;
+}
+
+li {
+	margin-bottom:.5em; 
+}
